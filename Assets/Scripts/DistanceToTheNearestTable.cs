@@ -55,7 +55,7 @@ public class DistanceToTheNearestTable : MonoBehaviour
             if (nearestTableToCameraRig != null)
             {
                 float distanceToController = CalculateDistanceToTable(rigPosition, nearestTableToCameraRig);
-                distanceText.text = "Distance from rig to nearest table: " + distanceToController.ToString("F2");
+                distanceText.text = "Distance: " + distanceToController.ToString("F2");
             }
         }
         
@@ -98,11 +98,14 @@ public class DistanceToTheNearestTable : MonoBehaviour
     {
         GameObject nearestTableToCameraRig = FindNearestTable(rigPosition);
 
+       
+
         if (nearestTableToCameraRig != null)
         {
             // Calculate the top surface of the table by taking the table's position and adding half of its height
             Vector3 spawnPosition = nearestTableToCameraRig.transform.position;
-            spawnPosition += Vector3.forward * (nearestTableToCameraRig.transform.localScale.y / 2);
+            
+            spawnPosition += -Vector3.forward;
 
             Instantiate(apparatusPrefab, spawnPosition, Quaternion.identity);
         }

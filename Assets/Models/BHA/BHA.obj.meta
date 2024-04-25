@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 0bee137418e2c6c46bd680a6ad518559
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.001_Cylinder.002_NoneMat
+    second: {fileID: 2100000, guid: 9f17b705f17167c47b3e78450e9ff83b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder_1_Mesh.065_Basic_glassMat
+    second: {fileID: 2100000, guid: 4654cb9784204f64d8dce1b4303c0bfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder_Cylinder.001_NoneMat
+    second: {fileID: 2100000, guid: 2866bf88ab848094181cf7524cb8f476, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_0_Mesh_Realistic_Glass_01Mat
+    second: {fileID: 2100000, guid: 26bb25b5ced6e034f9863a55974c9814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_10_Mesh.010_Dense_GlassMat
+    second: {fileID: 2100000, guid: bc375a619b3538046a8e2d6b1e08e5f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_11_Mesh.011_Dense_GlassMat
+    second: {fileID: 2100000, guid: a0c5efe2ecf2e0d49906ce3b212e7011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_12_Mesh.012_Dense_GlassMat
+    second: {fileID: 2100000, guid: 38b2d577a08cc1e41bb4545f5de79c57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_13_Mesh.013_Dense_GlassMat
+    second: {fileID: 2100000, guid: de122717f1afa1243b5a653d9d5c6922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_14_Mesh.014_Dense_GlassMat
+    second: {fileID: 2100000, guid: 2ac1b76a5d7f4fa48924ae33e292a67e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_15_Mesh.015_Dense_GlassMat
+    second: {fileID: 2100000, guid: 6fba1b2ec9fccae43b5e9fbedae05e56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_16_Mesh.016_Dense_GlassMat
+    second: {fileID: 2100000, guid: d5e1834bcc87715458a01ca979626567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_17_Mesh.017_Dense_GlassMat
+    second: {fileID: 2100000, guid: f1c9c4cc9af23fd418ca0fba4f8ebab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_18_Mesh.018_Dense_GlassMat
+    second: {fileID: 2100000, guid: e035bd72fd2ff2e4a96e868c385d2738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_19_Mesh.019_Dense_GlassMat
+    second: {fileID: 2100000, guid: e9ae9158b88d2864283ea8b3e201214a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_1_Mesh.001_Dense_GlassMat
+    second: {fileID: 2100000, guid: 40f6d51b176fce54d8b593d434374095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_20_Mesh.020_Dense_GlassMat
+    second: {fileID: 2100000, guid: 6f5e3ef53e803454da5115d6b4ea7450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_21_Mesh.021_Dense_GlassMat
+    second: {fileID: 2100000, guid: f6cb6a0fe3293524b879c35c7d433ed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_22_Mesh.022_Dense_GlassMat
+    second: {fileID: 2100000, guid: 7b6aff33552349a42a9aac7361d43595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_23_Mesh.023_Dense_GlassMat
+    second: {fileID: 2100000, guid: 67e8c279ec69146469af7d995ac8baed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_24_Mesh.024_Dense_GlassMat
+    second: {fileID: 2100000, guid: 1695df58278c3a044b31636718348b00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_25_Mesh.025_Dense_GlassMat
+    second: {fileID: 2100000, guid: 03285082defc8fa4080976d73e930d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_26_Mesh.026_Dense_GlassMat
+    second: {fileID: 2100000, guid: 77a625cfc436ad745a466a1f501d95c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_27_Mesh.027_Dense_GlassMat
+    second: {fileID: 2100000, guid: f6406a093db65bb4882a2b776cf86548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_28_Mesh.028_Dense_GlassMat
+    second: {fileID: 2100000, guid: 18c854bd486e1464093209df43608a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_29_Mesh.029_Dense_GlassMat
+    second: {fileID: 2100000, guid: 0ce34d729c634c340872dd1dcb0340a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_2_Mesh.002_Dense_GlassMat
+    second: {fileID: 2100000, guid: 0d2fa93216701594ca8bfb251887ffa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_30_Mesh.030_Dense_GlassMat
+    second: {fileID: 2100000, guid: 14a70f453889e924a913ffa77e670e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_31_Mesh.031_Dense_GlassMat
+    second: {fileID: 2100000, guid: cb5f14c187dadca47bfc939af1f3e6a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_32_Mesh.032_Dense_GlassMat
+    second: {fileID: 2100000, guid: fee7f2f67400d8e46a21e6f9cc8cf6ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_33_Mesh.033_Dense_GlassMat
+    second: {fileID: 2100000, guid: 51d26f9aea9a74941bec9c444e2309b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_34_Mesh.034_Dense_GlassMat
+    second: {fileID: 2100000, guid: b4e53ac6d3990ec4da6150ef2a207550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_35_Mesh.035_Dense_GlassMat
+    second: {fileID: 2100000, guid: 998fb0733fb88ba459abb3dc2d463a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_36_Mesh.036_Dense_GlassMat
+    second: {fileID: 2100000, guid: abb2743b0efbd3d4a9947114e1731d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_37_Mesh.037_Dense_GlassMat
+    second: {fileID: 2100000, guid: b42414226857ace4f9c8269c291e8d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_38_Mesh.038_Dense_GlassMat
+    second: {fileID: 2100000, guid: 0dfbd67e61f746a4bbdb0163eb309fa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_39_Mesh.039_Dense_GlassMat
+    second: {fileID: 2100000, guid: 3678766e80c5cf94cb310bbcb49632b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_3_Mesh.003_Dense_GlassMat
+    second: {fileID: 2100000, guid: 3efb94f2e84b41244a3a31a325faddab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_40_Mesh.040_Dense_GlassMat
+    second: {fileID: 2100000, guid: 5719f7a7ac48e4949a9a5d36a664a451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_41_Mesh.041_Dense_GlassMat
+    second: {fileID: 2100000, guid: 1b556ca4ceb4a2941964f52b268928e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_42_Mesh.042_Dense_GlassMat
+    second: {fileID: 2100000, guid: 7535f12058c746b43a7dbcd0df22362a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_43_Mesh.043_Dense_GlassMat
+    second: {fileID: 2100000, guid: 7287f1b3a477ad64cb7179de945745e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_44_Mesh.044_Dense_GlassMat
+    second: {fileID: 2100000, guid: 76832e8b2dc23f246b90404be97cd082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_45_Mesh.045_Dense_GlassMat
+    second: {fileID: 2100000, guid: 136ae6bb5a6a83a458611e2ed0adbf8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_46_Mesh.046_Dense_GlassMat
+    second: {fileID: 2100000, guid: add3b9668be321a47b17c89c49a3bc5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_47_Mesh.047_Dense_GlassMat
+    second: {fileID: 2100000, guid: f959b3bac7f706349aa8c41e13896ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_48_Mesh.048_Dense_GlassMat
+    second: {fileID: 2100000, guid: bca44468ab4b6844c94df32bde387e36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_49_Mesh.049_Dense_GlassMat
+    second: {fileID: 2100000, guid: 5d101a1c77ec73d4f9489941ca3dc174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_4_Mesh.004_Dense_GlassMat
+    second: {fileID: 2100000, guid: bc84853c7556d114a9d5d07c128858ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_50_Mesh.050_Dense_GlassMat
+    second: {fileID: 2100000, guid: 912f7b6a59a26a641a43ddaa5f8cd261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_51_Mesh.051_Dense_GlassMat
+    second: {fileID: 2100000, guid: 5e8398b8c9c2d1240bdf47039751df4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_52_Mesh.052_Dense_GlassMat
+    second: {fileID: 2100000, guid: 85b470c9515eb9244a1aaf578ac54346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_53_Mesh.053_Dense_GlassMat
+    second: {fileID: 2100000, guid: e1d32863f9c419d4ea12f9952a6c01e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_54_Mesh.054_Dense_GlassMat
+    second: {fileID: 2100000, guid: 6a32a6c2a1275354fadbc87b2763ce66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_55_Mesh.055_Dense_GlassMat
+    second: {fileID: 2100000, guid: 3aa6423e911b1ae45bfe6174da0ca749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_56_Mesh.056_Dense_GlassMat
+    second: {fileID: 2100000, guid: a48aa555e7775f247847ace25d49075f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_57_Mesh.057_Dense_GlassMat
+    second: {fileID: 2100000, guid: 89fd2d15d864ead468133694ccb9aff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_58_Mesh.058_Dense_GlassMat
+    second: {fileID: 2100000, guid: 63ff5cfde924bf843b810fe47a5f8269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_59_Mesh.059_Dense_GlassMat
+    second: {fileID: 2100000, guid: 0a5fa1a7d31954a4e831f0f93aa8fca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_5_Mesh.005_Dense_GlassMat
+    second: {fileID: 2100000, guid: 61ce92012aa2cce4186baa751e0ab33f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_60_Mesh.060_Dense_GlassMat
+    second: {fileID: 2100000, guid: 915c616252383894bbd9929197f5e635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_61_Mesh.061_Dense_GlassMat
+    second: {fileID: 2100000, guid: dee73614113a2ba408f87ebf60f92251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_62_Mesh.062_Dense_GlassMat
+    second: {fileID: 2100000, guid: 8199bc9bb5730a14ca2a07dfe2704f5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_63_Mesh.063_Dense_GlassMat
+    second: {fileID: 2100000, guid: b84e2b549c1a4d1428436d16aef4d0dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_64_Mesh.064_Dense_GlassMat
+    second: {fileID: 2100000, guid: a65e49da37c8df64399578732b80e8f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_6_Mesh.006_Dense_GlassMat
+    second: {fileID: 2100000, guid: f9c59ae51a49bb94bb920c066be4a6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_7_Mesh.007_Dense_GlassMat
+    second: {fileID: 2100000, guid: 684f64bf30046be42996110af6838d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_8_Mesh.008_Dense_GlassMat
+    second: {fileID: 2100000, guid: 32bc5f2e67516414b85e67ff7a95f675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_9_Mesh.009_Dense_GlassMat
+    second: {fileID: 2100000, guid: 55858389c5c2dba41b6d678bb0156294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottle.001_Mesh.069_Wall_paperMat
+    second: {fileID: 2100000, guid: 7f042298beec06749903a2847e5fabc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottle_Mesh.067_Basic_glassMat
+    second: {fileID: 2100000, guid: 74c23ee31f64a89468c46afae6565d2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cao_su_Mesh.068_Elastic_RubberMat
+    second: {fileID: 2100000, guid: 938b6bf0751ae524c874b501962aba73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nap_Mesh.066_RubberMat
+    second: {fileID: 2100000, guid: 4aa28f9c6582c3346ad176672f12ddf9, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
