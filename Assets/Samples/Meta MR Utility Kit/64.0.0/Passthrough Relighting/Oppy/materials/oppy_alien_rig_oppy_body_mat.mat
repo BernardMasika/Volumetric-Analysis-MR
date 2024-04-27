@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6905755443558669606
+--- !u!114 &-6796639481365849039
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -161,7 +161,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 1, g: 0.8, b: 0.3, a: 1}
+    - _EmissionColor: {r: 1, g: 0.7897599, b: 0.2980392, a: 1}
     - _GlowColor: {r: 0, g: 0.8187003, b: 1, a: 1}
     - _HeadPosition: {r: 0, g: 0, b: 0, a: 0}
     - _RimColor: {r: 1, g: 1, b: 1, a: 1}

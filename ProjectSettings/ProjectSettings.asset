@@ -141,9 +141,9 @@ PlayerSettings:
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1.0
   preloadedAssets:
+  - {fileID: 11400000, guid: 2a02fa485567abc478ba1ab4a5292658, type: 2}
   - {fileID: -2054588204190133307, guid: 91cb1edab7ba2444080a98fe6ac1b233, type: 2}
   - {fileID: 11400000, guid: 3c13aa762c09c1542a97ca54041573af, type: 2}
-  - {fileID: 11400000, guid: 2a02fa485567abc478ba1ab4a5292658, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -857,8 +857,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Volumetric Analysis MR
-  metroPackageVersion: 
+  metroPackageName: VolumetricAnalysisMR
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -866,7 +866,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Volumetric Analysis MR
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Volumetric Analysis MR
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
